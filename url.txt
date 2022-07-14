@@ -1,0 +1,22 @@
+docente:
+Maria Emilia Maietti
+
+
+
+homepage:
+http://www.math.unipd.it/~maietti/
+
+
+
+URL slide:
+http://www.math.unipd.it/~maietti/lez.html
+
+
+
+URL slide (old):
+http://www.math.unipd.it/~maietti/did.html
+
+
+
+ricevimento:
+E' gradito preavviso di un giorno via email all'indirizzo maietti@math.unipd.it
